@@ -63,8 +63,10 @@ python main.py
 python test_ibut.py
 ```
 
-Notes
+Notes:
 	•	A real LLM API must be configured for practical use
-	•	In model.py, modify the generate method according to the actual model used (e.g., OpenAI, Anthropic)
+ 
+	•	In model.py, modify the generate method according to the actual model used (e.g., OpenAI, DeepSeek)
+ 
 	•	You can control the maximum number of optimization iterations via the max_iterations parameter
 
