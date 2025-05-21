@@ -64,6 +64,7 @@ python test_ibut.py
 ```
 
 Notes:
+
 	•	A real LLM API must be configured for practical use
  
 	•	In model.py, modify the generate method according to the actual model used (e.g., OpenAI, DeepSeek)
