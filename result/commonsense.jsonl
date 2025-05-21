@@ -1,0 +1,499 @@
+{"src": "发明的是一个机器人。", "tgt": "The invention is a robot.", "hyp": "A robot was invented."}
+{"src": "关心的是关心你的，但是你却不关心的人。", "tgt": "The one who cares about you is the one you don't care about.", "hyp": "The people who care for you but you don't care for care for you."}
+{"src": "批评的是犯了错误的学生。", "tgt": "The one being criticized is the student who made a mistake.", "hyp": "The student who made the mistake was criticized."}
+{"src": "批评的是治学严厉的教师。", "tgt": "The one being criticized is the strict teacher in academics.", "hyp": "The one who criticizes is the rigorous teacher ."}
+{"src": "正在手术的是生命垂危的病人。", "tgt": "The patient undergoing surgery is in critical condition.", "hyp": "What is undergoing surgery is a patient whose life is dying."}
+{"src": "正在教授的是知识。", "tgt": "What is being taught is knowledge.", "hyp": "What is being taught is knowledge."}
+{"src": "正在执行的是法律。", "tgt": "The law is being enforced.", "hyp": "What is implemented is the law."}
+{"src": "正在收割的是农田里的稻谷。", "tgt": "The rice in the fields is being harvested.", "hyp": "What is being harvested is the rice in the farmland."}
+{"src": "正在管理的是学校专门的管理员。", "tgt": "The one who is managing is the school's dedicated administrator.", "hyp": "The school's dedicated administrator is managing."}
+{"src": "捕获的是猎物。", "tgt": "The captured is the prey.", "hyp": "The prey is hunted."}
+{"src": "敲打的是已经在击鼓行业工作了数十年的鼓手。", "tgt": "The drummer who is playing has already been working in the drumming industry for several decades.", "hyp": "The drummer who have been working in the drumming industry for decades is beating."}
+{"src": "扮演的是李连杰。", "tgt": "The role is played by Jet Li.", "hyp": "The role is played by Lianjie Li."}
+{"src": "研究的是企业文化。", "tgt": "The research is on corporate culture.", "hyp": "The corporate culture is studied."}
+{"src": "发现的是一个新的古文明。", "tgt": "What was discovered is a new ancient civilization.", "hyp": "What is Discovered is a new civilizations."}
+{"src": "发现的是一个考古教授。", "tgt": "The one discovered is an archaeology professor.", "hyp": "A archaeological professor discovered it."}
+{"src": "调研乡镇的经济发展情况。", "tgt": "Researching the economic development situation of rural towns.", "hyp": "The economic development of townships is investigated."}
+{"src": "记录实验的表格。", "tgt": "Record of the experiment table.", "hyp": "The form which is used to record the experiment."}
+{"src": "记录实验的结果。", "tgt": "Record the results of the experiment.", "hyp": "The results of the experiment is recorded."}
+{"src": "吃了游客的鳄鱼。", "tgt": "The crocodile ate the tourist.", "hyp": "The crocodile who ate the tourists."}
+{"src": "吃了游客的猫。", "tgt": "The cat ate the tourist's food.", "hyp": "The tourist's cat was eaten."}
+{"src": "咬了他家人的野狗。", "tgt": "The wild dog that bit his family member.", "hyp": "The wild dog who bit his family."}
+{"src": "挖西瓜的勺子。", "tgt": "Spoon for scooping watermelon.", "hyp": "The spoon which is used to dig the watermelon."}
+{"src": "削西瓜的皮。", "tgt": "Peel the watermelon skin.", "hyp": "The skin of the The watermelon is cut."}
+{"src": "维修桌子的桌脚。", "tgt": "Repair the table leg.", "hyp": "The table legs are repaired."}
+{"src": "维修桌子的锤子。", "tgt": "The hammer for repairing the table.", "hyp": "The hammer which is used to repair the table."}
+{"src": "三条河里的石头。", "tgt": "The stones in the three rivers.", "hyp": "Stones in three rivers."}
+{"src": "三块河里的石头。", "tgt": "Three stones in the river.", "hyp": "Three stones in the river"}
+{"src": "两匹草地上的马。", "tgt": "Two horses on the grassland.", "hyp": "Two horses on the grass."}
+{"src": "两片草地上的马。", "tgt": "Horses on two pieces of grassland.", "hyp": "Horses on two grasses."}
+{"src": "三节玩具车的电池。", "tgt": "Battery of the three-section toy car.", "hyp": "Three batteries of the toy car."}
+{"src": "三辆玩具车的电池。", "tgt": "Batteries of three toy cars.", "hyp": "The batteries of three toy cars."}
+{"src": "四架桌上的照相机。", "tgt": "Four cameras on the table.", "hyp": "Four cameras on the table."}
+{"src": "四张桌上的照相机。", "tgt": "Four cameras on the table.", "hyp": "The cameras on four tables."}
+{"src": "四篇报纸上的文章。", "tgt": "'Four articles on the newspaper.'", "hyp": "Four articles in the newspaper."}
+{"src": "四张报纸上的文章。", "tgt": "Articles on four newspapers.", "hyp": "The Articles in four newspapers."}
+{"src": "参观了千年古建筑。", "tgt": "Visited the ancient buildings of a thousand years.", "hyp": "Visited two thousand years' ancient building."}
+{"src": "参观了五小时古建筑。", "tgt": "Visited ancient buildings for five hours.", "hyp": "Visited the ancient building for five hours."}
+{"src": "挑选了十分钟木头。", "tgt": "Selected wood for ten minutes.", "hyp": "Pick a wood for ten minutes."}
+{"src": "挑选了千年木头。", "tgt": "Selected a thousand-year-old wood.", "hyp": "Pick a wood of thousand years."}
+{"src": "扮演了两分钟角色。", "tgt": "Played a two-minute role.", "hyp": "Played a role for two minutes."}
+{"src": "扮演了500年前人物。", "tgt": "Portrayed a character from 500 years ago.", "hyp": "Played the character  who lived in 500 years ago."}
+{"src": "连续写了5份会议报告书。", "tgt": "Wrote 5 consecutive meeting reports.", "hyp": "Five conference reports were written in succession."}
+{"src": "连续写了5小时会议报告书。", "tgt": "Continuously wrote a conference report for 5 hours.", "hyp": "The coference report was written for 5 hours in succession."}
+{"src": "讲了2小时历史。", "tgt": "Spoke about history for 2 hours.", "hyp": "Talking about history for 2 hours."}
+{"src": "讲了1百年历史。", "tgt": "Spoke about 100 years of history.", "hyp": "Talking about a hunderd years' history."}
+{"src": "画了6分钟画。", "tgt": "Drew a picture for 6 minutes.", "hyp": "Drew a painting for 6 minutes."}
+{"src": "画了6幅画。", "tgt": "Drew 6 paintings.", "hyp": "Drew 6 paintings."}
+{"src": "做了5张试卷。", "tgt": "Did 5 test papers.", "hyp": "Did 5 test papers."}
+{"src": "销售快速的商品。", "tgt": "Fast-selling products.", "hyp": "The goods that sells rapidly."}
+{"src": "销售昂贵的商品。", "tgt": "Selling expensive goods.", "hyp": "Selling expensive goods."}
+{"src": "修建巨大的建筑。", "tgt": "Constructing huge buildings.", "hyp": "Building a huge building."}
+{"src": "探查无人的地区。", "tgt": "Explore uninhabited areas.", "hyp": "Explore unmanned areas."}
+{"src": "探查明白的地区。", "tgt": "Explore the clear area.", "hyp": "The areas has been explored clearly."}
+{"src": "观看舒服的电影。", "tgt": "Watch a comfortable movie.", "hyp": "feeling comfortable when watching the movie."}
+{"src": "采购易碎的产品。", "tgt": "Purchase fragile products.", "hyp": "Purchasing fragile products."}
+{"src": "操纵方便的机器。", "tgt": "Operate convenient machines.", "hyp": "The machine that is manipulated conveniently."}
+{"src": "操纵重要的机器。", "tgt": "Operating important machines.", "hyp": "Manipulate important machines."}
+{"src": "囚禁凶狠的罪犯。", "tgt": "Imprison the ferocious criminal.", "hyp": "Imprison a fierce criminal."}
+{"src": "囚禁严密的罪犯。", "tgt": "Tightly imprisoned criminal.", "hyp": "The criminal has been imprisoned tightly."}
+{"src": "交老师作业本。", "tgt": "Hand in the homework to the teacher.", "hyp": "Hand homework to teacher."}
+{"src": "交红色作业本。", "tgt": "Hand in the red homework book.", "hyp": "Hand in the red homework."}
+{"src": "捐赠图书馆图书。", "tgt": "Donate books to the library.", "hyp": "Donate books to library."}
+{"src": "捐赠国外图书。", "tgt": "Donate books to foreign countries.", "hyp": "Donate foreign books."}
+{"src": "送过生日的领导礼物。", "tgt": "Gifts given for the leader's birthday.", "hyp": "Send a gift to the leader on his  birthday."}
+{"src": "送生日礼物。", "tgt": "Give a birthday gift.", "hyp": "Send a birthday gift."}
+{"src": "毯子和凳子的腿都坏了。", "tgt": "The blanket and the leg of the chair are both broken.", "hyp": "The blanket and the legs of the stool were broken."}
+{"src": "他的衣服的袖子和拐杖都脏了。", "tgt": "The sleeves of his clothes and his cane are both dirty.", "hyp": "The sleeves of his clothes and crutches are dirty."}
+{"src": "电脑的屏幕和椅子需要摆放整齐。", "tgt": "The computer screen and chair need to be arranged neatly.", "hyp": "The mainframe of the computer and chair  need to be neatly arranged."}
+{"src": "桌子上的电脑和沙发都要扔掉。", "tgt": "The computer on the table and the sofa both need to be thrown away.", "hyp": "The computer on the table and the sofa  should be thrown away."}
+{"src": "在这个商场工作的保安人员和警察在大楼外面交流。", "tgt": "The security staff working in this mall and the police are communicating outside the building.", "hyp": "Security guards working in the mall and police communicate outside the building."}
+{"src": "在空中的小鸟和鱼都是他的捕猎对象。", "tgt": "The birds in the sky and the fish are all his hunting targets.", "hyp": "The birds in the air and fish  are his hunting objects."}
+{"src": "收获的是勤劳的农夫。", "tgt": "The one who reaps is the diligent farmer.", "hyp": "It's the hardworking farmer that harvest."}
+{"src": "收获的是可口的果实。", "tgt": "The harvest is delicious fruit.", "hyp": "What is harvested is delicious fruit."}
+{"src": "创造的是一个科学家。", "tgt": "The creator is a scientist.", "hyp": "It is a scientist that create."}
+{"src": "创造的是一个机器人。", "tgt": "The creation is a robot.", "hyp": "What is created is a robot."}
+{"src": "严厉打击的是偷窃行为。", "tgt": "The severe crackdown is on theft behavior.", "hyp": "What is severely attacked is theft."}
+{"src": "严厉打击的是久经训练的特警。", "tgt": "The ones severely cracked down are the well-trained special police.", "hyp": "It is the well-trained special police that attack severely."}
+{"src": "调查的是这桩贪污腐败案件。", "tgt": "The investigation is about this corruption and bribery case.", "hyp": "The investigation was about this corruption case."}
+{"src": "调查的是这桩案件中贪污的人员。", "tgt": "The investigation is about the personnel involved in corruption in this case.", "hyp": "The investigation was conducted on the corrupted personnel in this case."}
+{"src": "错失的是这次难得的机会。", "tgt": "What was missed was this rare opportunity.", "hyp": "What is missed is this rare opportunity."}
+{"src": "错失的是等待机会很久的运动员们。", "tgt": "The ones who missed out are the athletes who have been waiting for the opportunity for a long time.", "hyp": "Tt's the athletes who have waited for a long time that miss."}
+{"src": "表演的是来自省里的一线演员。", "tgt": "The performance is by top-tier actors from the province.", "hyp": "The performance Is given by the A-list actors in the province."}
+{"src": "表演的是西游记里的孙悟空。", "tgt": "The performance is of Sun Wukong from Journey to the West.", "hyp": "The performance is about the Monkey King in the Journey to the West."}
+{"src": "推出的是一款跨时代的手机。", "tgt": "The product launched is a cross-era mobile phone.", "hyp": "What is introduced is an inter-generational mobile phone."}
+{"src": "推出的是一家伟大的公司。", "tgt": "The launched one is a great company.", "hyp": "It is a great company that launch it."}
+{"src": "科研的是一线的科学家。", "tgt": "The frontline of scientific research is scientists.", "hyp": "It is the frontline scientist that do scientific research."}
+{"src": "科研的是国际上的新兴领域。", "tgt": "Scientific research is an emerging field internationally.", "hyp": "What is researched is an emerging field in the world."}
+{"src": "研究的是国际知名数学难题。", "tgt": "The research is on internationally renowned mathematical problems.", "hyp": "What is studied is an internationally renowned mathematical problem."}
+{"src": "研究的是专攻数学题的国际知名数学家。", "tgt": "The subject of the study is an internationally renowned mathematician who specializes in mathematical problems.", "hyp": "It is the internationally renowned mathematician specializing in math problems that study."}
+{"src": "解出的是五道国际知名数学难题。", "tgt": "The solutions are for five internationally renowned difficult math problems.", "hyp": "What is solved is five internationally renowned mathematical problems."}
+{"src": "解出来的是五位国际知名数学家。", "tgt": "The ones who solved it are five internationally renowned mathematicians.", "hyp": "It's the five internationally renowned mathematicians that solve it."}
+{"src": "杀了房东的猫。", "tgt": "Killed the landlord's cat.", "hyp": "Killed the landlord's cat."}
+{"src": "杀了房东的杀手。", "tgt": "The killer who killed the landlord.", "hyp": "The killer killed the landlord."}
+{"src": "装修房子的工作室人员。", "tgt": "Studio staff who renovate houses.", "hyp": "The studio staff who renovated the house."}
+{"src": "装修房子的工作室房间。", "tgt": "The studio room of the renovated house.", "hyp": "Renovating the studio room of the house."}
+{"src": "研究代码的整体架构。", "tgt": "Study the overall architecture of the code.", "hyp": "Study the overall architecture of the code."}
+{"src": "研究代码的整体架构师。", "tgt": "Architect studying the overall structure of the code.", "hyp": "The general architect who research the code."}
+{"src": "参观大皇宫的内部构造。", "tgt": "Visit the interior structure of the Grand Palace.", "hyp": "Visit the internal structure of the Grand Palace."}
+{"src": "参观大皇宫的内部人员。", "tgt": "Visitors inside the Grand Palace.", "hyp": "The internal personnel who visit the Grand Palace."}
+{"src": "制裁伊朗的经济。", "tgt": "Sanctioning Iran's economy.", "hyp": "Sanction the Iranian economy."}
+{"src": "制裁伊朗的经济大国。", "tgt": "Economic superpower sanctioning Iran.", "hyp": "The economic power who sanction Iran."}
+{"src": "发展国家的经济水平。", "tgt": "Economic level of developing countries.", "hyp": "Develop the economic level of the country."}
+{"src": "发展国家的经济学专家。", "tgt": "Economic experts of developing countries.", "hyp": "The economic experts who develop the country."}
+{"src": "打击经济犯罪的团伙。", "tgt": "Strike against gangs involved in economic crimes.", "hyp": "Combat the gangs of economic crimes."}
+{"src": "打击经济犯罪的警察。", "tgt": "Police combating economic crime.", "hyp": "The police who combat economic crimes."}
+{"src": "调查重大案件的嫌疑人。", "tgt": "Investigate the suspects of major cases.", "hyp": "Investigate suspects in major cases."}
+{"src": "调查重大案件嫌疑人的刑警。", "tgt": "Criminal police investigating major case suspects.", "hyp": "The criminal police who investigate the suspects in major cases."}
+{"src": "喜欢旅游的过程中遇到的旅行家。", "tgt": "Like meeting travelers during the process of traveling.", "hyp": "Love travellers who I met in the process of traveling."}
+{"src": "喜欢旅游的过程的旅行家。", "tgt": "A traveler who enjoys the process of traveling.", "hyp": "Travellers who like the process of travel."}
+{"src": "一件橱柜里的衣服。", "tgt": "A piece of clothing in the cupboard.", "hyp": "A piece of clothing in the cupboard."}
+{"src": "一个橱柜里的衣服。", "tgt": "Clothes in a wardrobe.", "hyp": "Clothes in a cupboard."}
+{"src": "三座寺庙里的和尚。", "tgt": "Monks in the three temples.", "hyp": "The monks in the three temples."}
+{"src": "三位寺庙里的和尚。", "tgt": "Three monks in the temple.", "hyp": "Three monks in the temple."}
+{"src": "四台桌上的电脑。", "tgt": "Four computers on the table.", "hyp": "Four computers on the table."}
+{"src": "四张桌上的电脑。", "tgt": "Four computers on the table.", "hyp": "Computers on the four tables."}
+{"src": "五张床上的手机。", "tgt": "Five phones on the bed.", "hyp": "Phones on five beds."}
+{"src": "五只床上的手机。", "tgt": "Five phones on the bed.", "hyp": "Five phones on the bed."}
+{"src": "六本杂志上的封面人物。", "tgt": "Cover characters on six magazines.", "hyp": "Cover characters on six magazines."}
+{"src": "六位杂志上的封面人物。", "tgt": "Six cover figures on the magazine.", "hyp": "Six cover characters on the magazine."}
+{"src": "七朵盆栽中的鲜花。", "tgt": "Fresh flowers in seven potted plants.", "hyp": "Seven flowers in the pot."}
+{"src": "七盆盆栽里的鲜花。", "tgt": "Fresh flowers in seven potted plants.", "hyp": "Flowers in seven pots."}
+{"src": "八枚钱包里的硬币。", "tgt": "Eight coins in the wallet.", "hyp": "Eight coins in the wallet."}
+{"src": "八只钱包里的硬币。", "tgt": "Eight coins in the wallet.", "hyp": "Coins in eight wallets."}
+{"src": "九位电影中的演员。", "tgt": "Nine actors in the film.", "hyp": "Nine actors in the movie."}
+{"src": "九场电影中的情节。", "tgt": "The plot in nine movies.", "hyp": "The plots in nine movies."}
+{"src": "老师讲了三天的历史。", "tgt": "The teacher lectured on history for three days.", "hyp": "The teacher taught the history for three days."}
+{"src": "老师教了三千年的历史。", "tgt": "The teacher taught three thousand years of history.", "hyp": "The teacher taught the history of three thousand years."}
+{"src": "演出了两天的历史剧。", "tgt": "Performed a historical drama for two days.", "hyp": "Performed a historical drama for 2 days."}
+{"src": "演出了两千年的历史剧。", "tgt": "Performed a historical drama of two thousand years.", "hyp": "Performed a historical drama of two thousand years."}
+{"src": "写了三天作业。", "tgt": "Did homework for three days.", "hyp": "I wrote assignments for three days."}
+{"src": "写了三张作业。", "tgt": "Wrote three homework assignments.", "hyp": "I wrote three assignments."}
+{"src": "卖了十几年车。", "tgt": "Sold cars for more than a decade.", "hyp": "Sold cars for more than ten years."}
+{"src": "卖了辆十几年的车。", "tgt": "Sold a car that was more than a decade old.", "hyp": "Sold a car which was used for more than ten years."}
+{"src": "我看了十几年电影。", "tgt": "I have been watching movies for more than a decade.", "hyp": "I have watched movies for more than ten years."}
+{"src": "我看了部十几年前的电影。", "tgt": "I watched a movie from over a decade ago.", "hyp": "I watched a movie which was played ten years ago."}
+{"src": "经营了十几年店铺。", "tgt": "Ran a shop for over a decade.", "hyp": "Has been operating a store for more than ten years."}
+{"src": "经营了家十几年的店铺。", "tgt": "Operating a shop for over a decade.", "hyp": "I have run a store that has opened for more than ten years."}
+{"src": "曾经重要的历史转折点。", "tgt": "Once an important historical turning point.", "hyp": "A once-meaningful historical turning point."}
+{"src": "意义重要的历史转折点。", "tgt": "Significant historical turning point.", "hyp": "A significant turning point  in the history."}
+{"src": "购买困难的商品。", "tgt": "Goods that are difficult to purchase.", "hyp": "Goods that are bought difficultly."}
+{"src": "购买便宜的商品。", "tgt": "Buy cheap goods.", "hyp": "Buy cheap goods."}
+{"src": "销售困难的产品。", "tgt": "Products that are difficult to sell.", "hyp": "Products that are difficult to sell."}
+{"src": "销售便宜的劣质产品。", "tgt": "Selling cheap, low-quality products.", "hyp": "Selling cheap and inferior products."}
+{"src": "情节精彩的电视剧。", "tgt": "A TV drama with an exciting plot.", "hyp": "TV series that have wonderful plots."}
+{"src": "晚上精彩的电视剧。", "tgt": "Wonderful TV drama in the evening.", "hyp": "Wonderful TV series in the evening."}
+{"src": "感觉愉悦的气氛。", "tgt": "Feeling a pleasant atmosphere.", "hyp": "The pleasant atmosphere."}
+{"src": "享受快乐的气氛。", "tgt": "Enjoy the happy atmosphere.", "hyp": "Enjoy the delightful  atmosphere."}
+{"src": "研究简单的问题。", "tgt": "Study simple problems.", "hyp": "Study simple questions."}
+{"src": "研究完成的问题。", "tgt": "Problems completed in the research.", "hyp": "The problem that has been studied completely."}
+{"src": "考察严格的考官。", "tgt": "Inspect the strict examiner.", "hyp": "Examiners that examine strictly."}
+{"src": "咬死了猎人的猫。", "tgt": "The cat that killed the hunter.", "hyp": "Killed the hunter's cat."}
+{"src": "咬死了狐狸的老虎。", "tgt": "The tiger that killed the fox.", "hyp": "The tiger that killed the fox."}
+{"src": "杀死了猎人的狗。", "tgt": "The dog that killed the hunter.", "hyp": "Killed the hunter's dog"}
+{"src": "杀死了猎人的老虎。", "tgt": "The tiger that killed the hunter.", "hyp": "The tiger that killed the hunter."}
+{"src": "吃掉了蛋糕的巧克力。", "tgt": "Ate the chocolate of the cake.", "hyp": "Eat the chocolate of the cake."}
+{"src": "吃掉了蛋糕的小孩。", "tgt": "The child who ate the cake.", "hyp": "The child who ate the cake."}
+{"src": "爱上了明星的作品。", "tgt": "Fell in love with the star's work.", "hyp": "Fall in love with the works of the stars."}
+{"src": "错怪了父母的良苦用心。", "tgt": "Misunderstood the painstaking efforts of parents.", "hyp": "Wrongly blame the parents for their good intentions."}
+{"src": "错怪了父母的小孩子。", "tgt": "The child who wrongly blamed their parents.", "hyp": "The child who wrongly blame the parents."}
+{"src": "维修了房间的窗户。", "tgt": "Repaired the windows of the room.", "hyp": "Repaired the windows of the room."}
+{"src": "水里的鲨鱼和老虎都是凶猛的动物。", "tgt": "The sharks in the water and the tigers are both ferocious animals.", "hyp": "Sharks in the water and tiger  are ferocious animals."}
+{"src": "采收的是果园里的成熟的果实。", "tgt": "The harvested ones are the ripe fruits in the orchard.", "hyp": "What is harvested is the ripe fruit in the orchard."}
+{"src": "采收的是果园里的专业的果农。", "tgt": "The ones who harvest are the professional fruit farmers in the orchard.", "hyp": "The professional fruit grower is harvesting in the orchard."}
+{"src": "正在手术的是医院里临床经验最丰富的医生。", "tgt": "The one performing the surgery is the doctor with the most clinical experience in the hospital.", "hyp": "It is the doctor with the most clinical experience in the hospital that is operating."}
+{"src": "正在手术的是患上了严重疾病的病人。", "tgt": "The patient undergoing surgery is suffering from a serious illness.", "hyp": "It is a patient with a serious illness that is undergoing surgery."}
+{"src": "调研乡镇的经济。", "tgt": "Researching the economy of towns and villages.", "hyp": "Investigate the economy of townships."}
+{"src": "调研乡镇的经济学家。", "tgt": "Economist researching rural towns.", "hyp": "The economist who investigate the township."}
+{"src": "记录实验的整个过程。", "tgt": "Record the entire process of the experiment.", "hyp": "Record the entire process of the experiment."}
+{"src": "记录实验的生物学家。", "tgt": "Biologist recording the experiment.", "hyp": "The biologist who records the experiment."}
+{"src": "削苹果的刀。", "tgt": "The knife for peeling apples.", "hyp": "The knife that cut apples."}
+{"src": "修理木头桌子的锯子。", "tgt": "The saw for repairing the wooden table.", "hyp": "The saw that is used to repair the wooden table."}
+{"src": "三位学校的实验员。", "tgt": "Three laboratory technicians from three schools.", "hyp": "Three laboratory staff at the school."}
+{"src": "五件房屋里的家具。", "tgt": "Furniture in five houses.", "hyp": "Five furnitures in the house."}
+{"src": "十台商场里的电视机。", "tgt": "Ten televisions in the shopping mall.", "hyp": "Ten TVs in the shopping mall."}
+{"src": "六把房间里的椅子。", "tgt": "Six chairs in the room.", "hyp": "Six chairs in the room."}
+{"src": "参观了百年宫殿。", "tgt": "Visited the century-old palace.", "hyp": "Visited the century-old palace."}
+{"src": "参观了五分钟宫殿。", "tgt": "Visited the palace for five minutes.", "hyp": "Visited the palace for five minutes."}
+{"src": "连续写了2天家庭作业。", "tgt": "Continuously did homework for 2 days.", "hyp": "I Wrote homework for 2 days."}
+{"src": "画了4天画。", "tgt": "Painted for 4 days.", "hyp": "Drew paintings for 4 days."}
+{"src": "画了4幅画。", "tgt": "Drew 4 paintings.", "hyp": "Drew four paintings."}
+{"src": "嫌疑人害怕的场景。", "tgt": "The scene that the suspect is afraid of.", "hyp": "The scene in which the suspect was scared."}
+{"src": "口味独特的食物。", "tgt": "Food with a unique taste.", "hyp": "Food of a unique taste."}
+{"src": "北方独特的食物。", "tgt": "Unique food from the North.", "hyp": "Unique food in the north."}
+{"src": "销售迅速的商品。", "tgt": "Fast-selling products.", "hyp": "Goods that was sold fast."}
+{"src": "销售昂贵的商品。", "tgt": "Selling expensive goods.", "hyp": "Selling expensive goods."}
+{"src": "闻起来美味的粥。", "tgt": "Porridge that smells delicious.", "hyp": "Porridge that smells delicious."}
+{"src": "品尝美味的粥。", "tgt": "Taste the delicious porridge.", "hyp": "Taste delicious porridge."}
+{"src": "选购舒服的沙发。", "tgt": "Choose a comfortable sofa.", "hyp": "Choose a comfortable sofa."}
+{"src": "买卖便宜的货物。", "tgt": "Buying and selling cheap goods.", "hyp": "Buy and sell cheap goods."}
+{"src": "他考第一名太好了。", "tgt": "It's great that he ranked first in the exam.", "hyp": "It's wonderful that he takes the first place."}
+{"src": "他考成绩太好了。", "tgt": "His test scores are so good.", "hyp": "His test score is very good."}
+{"src": "鼓励的是这种行为。", "tgt": "The encouraging thing is this kind of behavior.", "hyp": "This behavior is encouraged."}
+{"src": "嘉奖的是这种英勇的行为。", "tgt": "The commendation is for this kind of heroic behavior.", "hyp": "It's the heroic acts that are awarded."}
+{"src": "严打的是偷窃行为。", "tgt": "The severe crackdown is on theft behavior.", "hyp": "Theft is strictly cracked down."}
+{"src": "调查的是这桩案件。", "tgt": "The investigation is about this case.", "hyp": "The case was investigated."}
+{"src": "调查的是来自省里的特聘刑侦专家。", "tgt": "The investigation is being conducted by a specially appointed criminal investigation expert from the province.", "hyp": "The investigation was conducted by a special criminal investigation expert from the province."}
+{"src": "研究的是国际知名数学难题。", "tgt": "The research is on internationally renowned mathematical problems.", "hyp": "The internationally renowned mathematical problem is studied."}
+{"src": "研究的是国际知名数学家。", "tgt": "The study is about internationally renowned mathematicians.", "hyp": "It is the internationally renowned mathematicians who study."}
+{"src": "装修房子的卧室。", "tgt": "Decorating the bedroom of the house.", "hyp": "Renovate the bedroom of the house."}
+{"src": "解决这道数学难题的关键人物。", "tgt": "The key person to solve this difficult math problem.", "hyp": "The key person to solve this mathematical problem."}
+{"src": "解决这道数学难题的部分内容。", "tgt": "Solving part of this difficult math problem.", "hyp": "Solve part of this math problem."}
+{"src": "调查交通事故的交警。", "tgt": "Traffic police investigating a traffic accident.", "hyp": "The traffic police who investigated the traffic accidents."}
+{"src": "调查交通事故的起因。", "tgt": "Investigate the cause of the traffic accident.", "hyp": "Investigate the cause of traffic accidents."}
+{"src": "喜欢旅游的过程。", "tgt": "Enjoy the process of traveling.", "hyp": "Like the process of travel."}
+{"src": "喜欢旅游的旅行家们。", "tgt": "Travelers who love to travel.", "hyp": "Travellers who like to travel."}
+{"src": "两个橱柜里的衣服。", "tgt": "The clothes in the two cabinets.", "hyp": "Clothes in two cupboards."}
+{"src": "三把桌上的雨伞。", "tgt": "Three umbrellas on the table.", "hyp": "Three umbrellas on the table."}
+{"src": "三张桌上的雨伞。", "tgt": "Three umbrellas on the table.", "hyp": "Umbrellas on the three tables."}
+{"src": "四根蛋糕上的蜡烛。", "tgt": "'Four candles on the cake.'", "hyp": "Four candles on the cake."}
+{"src": "四个蛋糕上的蜡烛。", "tgt": "Candles on four cakes.", "hyp": "Candles on four cakes."}
+{"src": "五场比赛中的冠军。", "tgt": "Champion of the five matches.", "hyp": "The champions in five games."}
+{"src": "五位比赛中的冠军。", "tgt": "Five champions in the competition.", "hyp": "Five champions of the competitions."}
+{"src": "六把库房里的步枪。", "tgt": "Six rifles in the storeroom.", "hyp": "Six rifles in the warehouse."}
+{"src": "六个库房里的步枪。", "tgt": "Rifles in the six warehouses.", "hyp": "Rifles in six warehouses."}
+{"src": "学校经验重足的老师。", "tgt": "A teacher with abundant school experience.", "hyp": "Teachers with a lot of experience at school."}
+{"src": "学校配置充足的老师。", "tgt": "The school is equipped with sufficient teachers.", "hyp": "The school is fully equipped with teachers."}
+{"src": "军队配备精良的武器。", "tgt": "The army is equipped with sophisticated weapons.", "hyp": "The army is equipped with sophisticated weapons."}
+{"src": "军队装备精良的战士。", "tgt": "Soldiers equipped with sophisticated military equipment.", "hyp": "Soldiers equipped with sophisticated weapons in the army."}
+{"src": "解释清楚问题。", "tgt": "Explain the problem clearly.", "hyp": "Explain the problem clearly."}
+{"src": "解释复杂问题。", "tgt": "Explain complex issues.", "hyp": "Explain complex issues."}
+{"src": "继承发展传统文化。", "tgt": "Inherit and develop traditional culture.", "hyp": "Inherit and develop traditional culture."}
+{"src": "继承绘画传统文化。", "tgt": "Inherit traditional painting culture.", "hyp": "Inherit the traditional culture of painting."}
+{"src": "卖掉了猎人的狗。", "tgt": "Sold the hunter's dog.", "hyp": "Sold the hunter's dog."}
+{"src": "卖掉了狗的猎人。", "tgt": "The hunter who sold the dog.", "hyp": "The hunter who sold the dog."}
+{"src": "伤害了别人的话语。", "tgt": "Words that hurt others.", "hyp": "Words that hurt others."}
+{"src": "伤害了别人的感情。", "tgt": "Hurt someone else's feelings.", "hyp": "Hurt someone else's feelings."}
+{"src": "感动了父母的小孩。", "tgt": "The child who moved the parents.", "hyp": "The child who touched the parents."}
+{"src": "感动了父母的内心。", "tgt": "Touched the hearts of the parents.", "hyp": "Touched the parents' heart."}
+{"src": "点燃了内心的复仇火焰。", "tgt": "Ignited the flame of revenge in the heart.", "hyp": "Ignited the inner revenge flame."}
+{"src": "维修了房间的窗户。", "tgt": "Repaired the windows of the room.", "hyp": "Repaired the windows of the room."}
+{"src": "维修了房间的工人。", "tgt": "The worker who repaired the room.", "hyp": "The worker who repaired the room."}
+{"src": "审判的是一个罪犯。", "tgt": "The one being judged is a criminal.", "hyp": "A criminal was brought to trial."}
+{"src": "教导的是热爱学习的学生。", "tgt": "Teaching students who love to learn.", "hyp": "Students who love learning are taught."}
+{"src": "喜欢这篇文章的文笔。", "tgt": "Like the writing style of this article.", "hyp": "Like the writing of this article."}
+{"src": "喜欢这篇文章的文艺青年。", "tgt": "Literary youths who like this article.", "hyp": "Literary youths who like this article."}
+{"src": "倾听动人音乐的听众。", "tgt": "Audience listening to touching music.", "hyp": "Listeners listening to moving music."}
+{"src": "欣赏园林的游客。", "tgt": "Tourists admiring the garden.", "hyp": "Tourists admiring the garden."}
+{"src": "漫步在太空的空间站。", "tgt": "Strolling in the space station.", "hyp": "Walk through the space station in outerspace."}
+{"src": "漫步在太空的宇航员。", "tgt": "The astronaut walking in space.", "hyp": "Astronaut walking through space."}
+{"src": "破坏的是历史古迹。", "tgt": "The historical relics are being damaged.", "hyp": "What was destroyed were historical monuments."}
+{"src": "破坏的是没素质的游客。", "tgt": "The ones causing damage are the uncultured tourists.", "hyp": "It is poorly educated tourists who destroy."}
+{"src": "屠杀的是当地的保护动物。", "tgt": "The ones being slaughtered are the local protected animals.", "hyp": "Local protected animals were killed."}
+{"src": "屠杀的是贪婪的偷猎者。", "tgt": "The ones who slaughter are the greedy poachers.", "hyp": "The greedy poachers were killing."}
+{"src": "踩踏花园的花朵。", "tgt": "Trampling on the flowers in the garden.", "hyp": "Trampling the flowers in the garden."}
+{"src": "踩踏花园的游客。", "tgt": "Tourists trampling on the garden.", "hyp": "Tourists trampling the garden."}
+{"src": "围剿土匪的正规军。", "tgt": "The regular army that encircles and suppresses bandits.", "hyp": "A regular army Sieging bandits."}
+{"src": "援助的是扶贫的志愿者们。", "tgt": "The ones providing assistance are the poverty alleviation volunteers.", "hyp": "The ones providing assistance are the poverty alleviation volunteers."}
+{"src": "援助的是贫困地区的老人。", "tgt": "The aid is for the elderly in impoverished areas.", "hyp": "Assistance is provided to the elderly in poor areas."}
+{"src": "援助偏远地区的留守儿童。", "tgt": "Assist left-behind children in remote areas.", "hyp": "Assisting left-behind children in remote areas."}
+{"src": "援助偏远地区的热心志愿者。", "tgt": "Enthusiastic volunteers aiding remote areas.", "hyp": "Enthusiastic volunteers who provide assistance in remote areas."}
+{"src": "预测的是下一场比赛结果。", "tgt": "The prediction is for the result of the next game.", "hyp": "The prediction is the result of the next game."}
+{"src": "计算员工工资的总数。", "tgt": "Calculate the total amount of employee wages.", "hyp": "Calculate the total salary of employees."}
+{"src": "计算员工工资的会计。", "tgt": "Accountant who calculates employee salaries.", "hyp": "An accountant who calculates the salary of employees."}
+{"src": "创建党派的人士。", "tgt": "People who create political parties.", "hyp": "People who create parties."}
+{"src": "演奏乐曲的高潮部分。", "tgt": "The climax part of the musical performance.", "hyp": "The climax of the the playing music."}
+{"src": "演奏乐曲的钢琴家。", "tgt": "The pianist performing the music.", "hyp": "Pianist playing music."}
+{"src": "演奏的是贝多芬大调。", "tgt": "The performance is in Beethoven's major key.", "hyp": "What was Performed is Beethoven major."}
+{"src": "演奏的是贝多芬。", "tgt": "The performance is Beethoven.", "hyp": "Beethoven is playing."}
+{"src": "竞选的是班长。", "tgt": "The one running for election is the class president.", "hyp": "The one running for election is the class president."}
+{"src": "竞选的是班上的学生。", "tgt": "The ones running for election are the students in the class.", "hyp": "The students in class are running for the office."}
+{"src": "收藏的是汉朝文物。", "tgt": "The collection is Han Dynasty artifacts.", "hyp": "The collection is the cultural relics of the Han Dynasty."}
+{"src": "收藏的是汉朝文物收藏家。", "tgt": "The collector specializes in Han Dynasty artifacts.", "hyp": "Cultural relic collectors of the Han Dynasty collect it."}
+{"src": "击中靶子的射手。", "tgt": "The archer who hits the target.", "hyp": "Archer hitting the target."}
+{"src": "一条平原上的河流。", "tgt": "A river on the plain.", "hyp": "A river on the plain."}
+{"src": "一块平原上的河流。", "tgt": "A river on a plain.", "hyp": "Rivers on a plain."}
+{"src": "两盏屋子里的台灯。", "tgt": "Two table lamps in the room.", "hyp": "Two table lamps in the room."}
+{"src": "三瓶桌上的矿泉水。", "tgt": "Three bottles of mineral water on the table.", "hyp": "Three bottles of mineral water on the table."}
+{"src": "三张桌上的矿泉水。", "tgt": "Mineral water on three tables.", "hyp": "Mineral water on three tables."}
+{"src": "四张考试的试卷。", "tgt": "Four exam papers.", "hyp": "Four papers of the exam."}
+{"src": "四门考试的试卷。", "tgt": "The test papers of the four exams.", "hyp": "Papers of four exams."}
+{"src": "五双抽屉里的袜子。", "tgt": "Socks in the five drawers.", "hyp": "Five pairs of socks in a drawer."}
+{"src": "五个抽屉里的袜子。", "tgt": "Socks in the five drawers.", "hyp": "Socks in five drawers."}
+{"src": "欣赏了几小时的古村落。", "tgt": "Appreciated the ancient village for several hours.", "hyp": "Admired the ancient village for hours."}
+{"src": "学习了五小时外语课程。", "tgt": "Studied five hours of foreign language courses.", "hyp": "Learned foreign language course for five hours."}
+{"src": "学习了五门外语课程。", "tgt": "Studied five foreign language courses.", "hyp": "Learned five foreign language courses."}
+{"src": "我写了六张字帖。", "tgt": "I wrote six sheets of calligraphy.", "hyp": "I wrote six copybooks."}
+{"src": "我写了六天字帖。", "tgt": "I wrote six days of calligraphy practice.", "hyp": "I wrote copybooks for six days."}
+{"src": "弹奏了一首美妙的音乐。", "tgt": "Played a wonderful piece of music.", "hyp": "Played a wonderful piece of music."}
+{"src": "弹奏了一天美妙的音乐。", "tgt": "Played wonderful music all day.", "hyp": "Played wonderful music for a day."}
+{"src": "检查枪支的子弹。", "tgt": "Check the bullets in the gun.", "hyp": "Check the bullets in the gun."}
+{"src": "检查枪支的警察。", "tgt": "The police checking the firearms.", "hyp": "Police checking guns."}
+{"src": "补助的是家庭贫困的学生。", "tgt": "The subsidy is for students from poor families.", "hyp": "Subsidies are given to students from poor families."}
+{"src": "补助的是国家机构。", "tgt": "The subsidy is from the state institution.", "hyp": "Subsidies are provided by state agencies."}
+{"src": "三位考场的老师聚在一起聊天。", "tgt": "'Three teachers from the examination room gathered together to chat.'", "hyp": "The three teachers in the examination room got together to chat."}
+{"src": "三间考场的老师聚在一起聊天。", "tgt": "The teachers from three examination rooms gathered together to chat.", "hyp": "Teachers from the three examination rooms got together to chat."}
+{"src": "学习课本的文章。", "tgt": "Study the articles in the textbook.", "hyp": "Study articles of the textbook ."}
+{"src": "学习课本的学生。", "tgt": "Student studying the textbook.", "hyp": "Students studying textbooks."}
+{"src": "建造城市的高楼。", "tgt": "Build high-rise buildings in the city.", "hyp": "Build tall buildings in the city."}
+{"src": "建造城市的工人。", "tgt": "Workers building the city.", "hyp": "Workers building a city."}
+{"src": "我看了十天报纸。", "tgt": "I read newspapers for ten days.", "hyp": "I read newspapers for ten days."}
+{"src": "我看了十份报纸。", "tgt": "I read ten newspapers.", "hyp": "I read ten newspapers."}
+{"src": "三家医院的医生坐在一起开会。", "tgt": "Doctors from three hospitals are sitting together for a meeting.", "hyp": "Doctors from three hospitals are sitting together for a meeting."}
+{"src": "三位医院的医生坐在一起开会。", "tgt": "Three doctors from three hospitals are sitting together for a meeting.", "hyp": "Three doctors of the hospital sat together for a meeting."}
+{"src": "学习简单的课程。", "tgt": "Study simple courses.", "hyp": "Learn simple lessons."}
+{"src": "购买艰难的禁运品。", "tgt": "Purchase of difficult embargoed goods.", "hyp": "Purchase of difficult embargoed goods."}
+{"src": "卖多余作业本。", "tgt": "Selling extra exercise books.", "hyp": "Sell extra exercise books."}
+{"src": "送领导礼物。", "tgt": "Give gifts to the leader.", "hyp": "Send gifts to leader."}
+{"src": "送成年礼物。", "tgt": "Give adult gifts.", "hyp": "Send adult gifts."}
+{"src": "天上的鸟和鱼都有共同的祖先。", "tgt": "The birds in the sky and the fish all have a common ancestor.", "hyp": "Birds and fish in the sky have common ancestors."}
+{"src": "天上的云和雨交织在一起。", "tgt": "The clouds and rain in the sky are interwoven together.", "hyp": "The clouds and rain in the sky are intertwined."}
+{"src": "学校里的老师和警察都属于公职人员。", "tgt": "Teachers in schools and police officers are both public servants.", "hyp": "The teachers in the school and police are public officials."}
+{"src": "学校里的老师和学生都和睦相处。", "tgt": "Teachers and students in the school get along harmoniously.", "hyp": "Teachers and students in the school live in harmony."}
+{"src": "空气中的氧气和水缺一不可。", "tgt": "Both oxygen and water in the air are indispensable.", "hyp": "Oxygen in the air and water are indispensable."}
+{"src": "空气中的氧气和二氧化碳缺一不可。", "tgt": "Both oxygen and carbon dioxide in the air are indispensable.", "hyp": "Both oxygen and carbon dioxide in the air are indispensable."}
+{"src": "两扇屋里的用玻璃制造的窗。", "tgt": "Two glass-made windows in the room.", "hyp": "Two windows made by glass in the house."}
+{"src": "两条书上的定理。", "tgt": "Two theorems in the book.", "hyp": "Two theorem in the book."}
+{"src": "两本书上的定理。", "tgt": "Theorems in two books.", "hyp": "The theorem in two books."}
+{"src": "四头屠宰场的牛。", "tgt": "Four cows from the slaughterhouse.", "hyp": "Four cattle in a slaughterhouse."}
+{"src": "四座屠宰场的牛。", "tgt": "Cows from four slaughterhouses.", "hyp": "The cattle in four slaughterhouses."}
+{"src": "两所药店的中药。", "tgt": "Chinese medicine from two pharmacies.", "hyp": "Chinese medicine in two pharmacies."}
+{"src": "一本书店的书。", "tgt": "A book from a bookstore.", "hyp": "A book from a bookstore."}
+{"src": "两家书店的书。", "tgt": "Books from two bookstores.", "hyp": "The Books in two bookstores."}
+{"src": "夹带的是考生。", "tgt": "The one being carried is the examinee.", "hyp": "It is the examinee who carry something."}
+{"src": "进行交易的是一个象牙。", "tgt": "The transaction is for an ivory.", "hyp": "They are two rich man who is trading."}
+{"src": "讲解的是这个古老建筑物的历史。", "tgt": "The explanation is about the history of this ancient building.", "hyp": "What is explained is the history of this ancient building."}
+{"src": "讲解的是一个很专业的导游。", "tgt": "The one explaining is a very professional tour guide.", "hyp": "It is a very professional tour guide who is explaining."}
+{"src": "指挥的是一个专业的足球教练。", "tgt": "The one directing is a professional football coach.", "hyp": "A professional football coach is conducting."}
+{"src": "领导的是这个国家的领导人。", "tgt": "The leader is the leader of this country.", "hyp": "The leader of this country is leading."}
+{"src": "比试的是数学能力。", "tgt": "The competition is about mathematical ability.", "hyp": "What is competed is the mathematical ability."}
+{"src": "雕刻的是一块大理石。", "tgt": "What is carved is a piece of marble.", "hyp": "What is carved is a piece of marble."}
+{"src": "检查课本的价格。", "tgt": "Check the price of the textbook.", "hyp": "Check the price of the textbook."}
+{"src": "吃鱼的尾巴。", "tgt": "Eating the tail of the fish.", "hyp": "Eat the tail of the fish."}
+{"src": "吃鱼的顾客。", "tgt": "Customer who eats fish.", "hyp": "It is the customers who are eating the fish."}
+{"src": "讨论数学的公式。", "tgt": "Discuss the formulas of mathematics.", "hyp": "Discuss mathematical formulas."}
+{"src": "讨论数学的会议。", "tgt": "Conference on discussing mathematics.", "hyp": "It is a meeting to discuss mathematics."}
+{"src": "抹桌子的毛巾。", "tgt": "The towel for wiping the table.", "hyp": "The towel is used for wiping the table."}
+{"src": "迷失道路的方向。", "tgt": "Lost the direction of the road.", "hyp": "Lost the direction of the road."}
+{"src": "迷失道路的游客。", "tgt": "Tourist lost on the road.", "hyp": "The tourists who lost the road."}
+{"src": "揭露真相的谜底。", "tgt": "Reveal the truth of the mystery.", "hyp": "Reveal the mystery of the truth."}
+{"src": "揭露真相的记录。", "tgt": "Records revealing the truth.", "hyp": "It is a record that reveals the turth."}
+{"src": "记录现实的场景。", "tgt": "Record the scenes of reality.", "hyp": "Record realistic scenes."}
+{"src": "遮住脸的面纱。", "tgt": "A veil covering the face.", "hyp": "The veil can be used to cover face."}
+{"src": "遮住脸的青春痘。", "tgt": "Cover the acne on the face.", "hyp": "Cover the acne in face."}
+{"src": "检索货物的清单。", "tgt": "Retrieve the list of goods.", "hyp": "Retrieve a list of goods."}
+{"src": "视察私营公司的运转情况。", "tgt": "Inspect the operation of private companies.", "hyp": "Inspect the operation of the private company."}
+{"src": "搭建闪亮的舞台。", "tgt": "Build a dazzling stage.", "hyp": "Build a brightly lit stage."}
+{"src": "培养细小的细菌。", "tgt": "Cultivate tiny bacteria.", "hyp": "Cultivate tiny bacteria."}
+{"src": "批阅重要的文件。", "tgt": "Review important documents.", "hyp": "Review important documents."}
+{"src": "拆除破旧的建筑。", "tgt": "Demolish the dilapidated buildings.", "hyp": "Demolish the dilapidated building."}
+{"src": "当地震袭击中国时，援助的是中国。", "tgt": "When an earthquake struck China, it was China that provided aid.", "hyp": "When the earthquake hit China, China was aided."}
+{"src": "当地震袭击日本时，援助的是中国。", "tgt": "When the earthquake struck Japan, it was China that provided aid.", "hyp": "When the earthquake hit Japan, China has assisted."}
+{"src": "反对的是政府，群众要求这个腐败的政府改革。", "tgt": "The opposition is against the government, the masses demand this corrupt government to reform.", "hyp": "The objection is against the government, and the masses demand this corrupt government to reform."}
+{"src": "捕猎的是老虎，老虎的数量正在急剧减少。", "tgt": "The hunting target is the tiger, and the number of tigers is rapidly decreasing.", "hyp": "Tigers are hunted, so the number of tigers is drastically decreasing."}
+{"src": "担心的是妻子，丈夫已经很久没有音信了。", "tgt": "The worry is about the wife, the husband has not been heard from for a long time.", "hyp": "The wife is worried, because the husband has not heard from for a long time."}
+{"src": "担心的是妻子，在我离开之后不知道她能不能肩负起整个家庭。", "tgt": "What I'm worried about is my wife, I don't know if she can shoulder the whole family after I leave.", "hyp": "What I am worried about I is my wife, because  I don’t know if she can shoulder the whole family after my leave."}
+{"src": "关心的是她母亲，她母亲熬了粥给生病的她。", "tgt": "What she cared about was her mother, her mother who had made porridge for her when she was sick.", "hyp": "Her mother cared for her,  and her mother cooked porridge to her when she was sick."}
+{"src": "关心的是她母亲，她母亲生病了需要照顾。", "tgt": "What she cares about is her mother, her mother is sick and needs care.", "hyp": "Who was concerned about is her mother, because sh is sick and requires looking after."}
+{"src": "反对的是王老师，王老师不支持这个教学计划。", "tgt": "The one who opposes is Teacher Wang, Teacher Wang does not support this teaching plan.", "hyp": "The objection is  from Mr. Wang, and Teacher Wang does not support this teaching plan."}
+{"src": "反对的是王老师，其他人认为王老师的提议是不恰当的。", "tgt": "The one opposing is Teacher Wang, others think that Teacher Wang's proposal is inappropriate.", "hyp": "Against Mr. Wang. Others think that Mr. Wang’s proposal is not appropriate."}
+{"src": "连小孩都不相信,这件事情太假了。", "tgt": "Even the children don't believe it, this thing is too fake.", "hyp": "Even children don't believe it, for this thing is too fake."}
+{"src": "连小孩都不相信,因为他是个多疑的人。", "tgt": "Even children don't believe him, because he is a suspicious person.", "hyp": "He even do not believe in children, because he is a righteous person."}
+{"src": "鸡不吃了，因为这只鸡已经吃了太多了。", "tgt": "The chicken is not eating anymore, because this chicken has already eaten too much.", "hyp": "The chicken did not eat because the chicken had already eaten too much."}
+{"src": "鸡不吃了，因为最近都在吃鸡，吃腻了。", "tgt": "I'm not eating chicken anymore, because I've been eating chicken recently and I'm tired of it.", "hyp": "Don't eat chicken, because we have been having chicken recently and are tired of it."}
+{"src": "小杨没找到，小杨感到很诅丧。", "tgt": "Xiao Yang didn't find it, Xiao Yang felt very depressed.", "hyp": "Xiao Yang did not find it, and he felt very sad."}
+{"src": "当刘和珍被杀时，批评的是鲁迅的文章。", "tgt": "When Liu and Zhen were killed, it was Lu Xun's articles that were criticized.", "hyp": "When Liu Hezhen was killed, Lu Xun’s articles were criticized."}
+{"src": "这个人大放厥词，批评的是鲁迅的文章。", "tgt": "This person is speaking recklessly, criticizing Lu Xun's articles.", "hyp": "This person was arrogant and criticized Lu Xun's articles."}
+{"src": "调查的是学生，因为这些学生是这个事件的目击者。", "tgt": "The investigation is on the students, because these students are the witnesses of this incident.", "hyp": "The students were investigated because they were the witnesses to the incident."}
+{"src": "调查的是学生，因为这些学生要完成老师布置的作业。", "tgt": "The survey is conducted on students, because these students need to complete the assignments given by the teacher.", "hyp": "The students are investigating because they have to complete the assignments assigned by the teacher."}
+{"src": "照顾孩子的妈妈，这个女人在孩子生病时时刻守在孩子身边。", "tgt": "The mother who takes care of the child, this woman is always by the child's side when the child is sick.", "hyp": "The mother is taking care of the child, and this woman always accompanies the child when he is sick."}
+{"src": "照顾孩子的妈妈，她在生完小孩后需要得到精心照顾。", "tgt": "The mother who takes care of the child, she needs to be carefully taken care of after giving birth.", "hyp": "Take care of the child's mother, for she needs to be taken care of after giving birth."}
+{"src": "关心企业的员工，老板需要提升他们的生活住宿待遇。", "tgt": "The boss needs to improve the living and accommodation conditions for the employees who care about the company.", "hyp": "For concerning about the employees of the company, the boss needs to improve their living and accommodation condition."}
+{"src": "发现了敌人的哨兵，这个哨兵需要立即汇报敌情。", "tgt": "The sentinel has spotted the enemy, this sentinel needs to report the enemy situation immediately.", "hyp": "The sentinel found the enemy, and the sentinel needed to report the enemy immediately."}
+{"src": "发现了敌人的哨兵，不能让敌人的哨兵逃走。", "tgt": "Discovered the enemy's sentinel, we cannot let the enemy's sentinel escape.", "hyp": "The enemy's sentinel was discovered and the enemy's sentinel could not be allowed to escape."}
+{"src": "喜欢上海的姑娘，因为那的姑娘都很追求时尚。", "tgt": "I like the girls in Shanghai, because they are all very fashionable.", "hyp": "I like the girls in Shanghai, because the girls  there are very fashionable."}
+{"src": "喜欢上海的姑娘，因为上海是一个繁华的城市。", "tgt": "The girl likes Shanghai because it is a bustling city.", "hyp": "The girl likes Shanghai because Shanghai is a bustling city."}
+{"src": "牵连了局长的女秘书，因为局长的违法导致女秘书被问责。", "tgt": "The director's female secretary was implicated because the director's illegal actions led to her being held accountable.", "hyp": "The female secretary of the director was implicated because the director’s violation led to the female secretary being held accountable."}
+{"src": "快接近期末考试了，需要复习一个学期的功课。", "tgt": "The final exams are approaching, need to review a semester's worth of coursework.", "hyp": "It is close to the final exam, you need to review a semester's homework."}
+{"src": "这个学期不讲新知识，需要复习一个学期的功课。", "tgt": "This semester will not introduce new knowledge, it is necessary to review a semester's worth of coursework.", "hyp": "The teacher does not teach new knowledge in this semester and needs to take a semester to review homework."}
+{"src": "讨厌母亲的女儿，这个母亲的儿子不喜欢妹妹。", "tgt": "The daughter who dislikes her mother, this mother's son doesn't like his sister.", "hyp": "Hate the mother's daughter,  the mother's son does not like his sister."}
+{"src": "撞倒弟弟的自行车，弟弟对他自行车被撞倒这件事情很生气。", "tgt": "He knocked over his younger brother's bicycle, and his younger brother was very angry about his bicycle being knocked over.", "hyp": "Knocked down my brother's bicycle, and my brother was angry at the fact that his bicycle was knocked down."}
+{"src": "撞倒弟弟的自行车，幸亏弟弟没有受伤。", "tgt": "I knocked over my younger brother's bicycle, fortunately, he wasn't injured.", "hyp": "The bicycle knoked dowm my brother, Fortunately, my brother was not injured."}
+{"src": "因为要出行很多天，他们准备了一天的干粮。", "tgt": "Because they were going to travel for many days, they prepared a day's worth of dry food.", "hyp": "Because they had to travel for many days,they are preparing dry food all day."}
+{"src": "因为只要出行一天，他们准备了一天的干粮。", "tgt": "Because they were going out for a day, they prepared a day's worth of dry rations.", "hyp": "Because  they only need to  travel for one day, they just prepared a dry food for a day."}
+{"src": "研究鲁迅的文章一般都会写鲁迅的出生和逝世。", "tgt": "Research on Lu Xun's articles generally includes writing about Lu Xun's birth and death.", "hyp": "These articles which study Lu Xun generally writes Lu Xun's birth and death."}
+{"src": "研究鲁迅的文章对于近代文学研究是必须要做的。", "tgt": "Studying Lu Xun's articles is essential for the research of modern literature.", "hyp": "Studying Lu Xun's article must be done for modern literature research."}
+{"src": "击败敌人的部队，这个部队在回国后受到了人民的欢迎。", "tgt": "The troops that defeated the enemy were welcomed by the people when they returned to their country.", "hyp": "The troops defeat the enemy,which were welcomed by the people after returning home."}
+{"src": "击败敌人的部队，还需要进一步追击。", "tgt": "Defeating the enemy's forces requires further pursuit.", "hyp": "Defeat the enemy's troops and still need to pursue further."}
+{"src": "骂孩子的父亲，因为孩子考试没考好。", "tgt": "The father scolded the child because the child did not do well in the exam.", "hyp": "The father criticized the child, because the child's exam did not test well."}
+{"src": "请把研究资料拿给我看看。", "tgt": "'Please let me take a look at the research materials.'", "hyp": "Please show me the research materials."}
+{"src": "研究资料是每个科研人员必做的事情。", "tgt": "Researching materials is a must-do for every researcher.", "hyp": "The research of data is a thing that every researcher must do."}
+{"src": "进口食品在售价上比较高。", "tgt": "The selling price of imported food is relatively high.", "hyp": "Imported food is relatively high in price."}
+{"src": "进口食品被这个国家的政策不允许。", "tgt": "Imported food is not allowed by the policy of this country.", "hyp": "Importing food is not allowed by the policies of this country."}
+{"src": "调查材料要在截止日期前上交。", "tgt": "The survey materials must be submitted before the deadline.", "hyp": "The survey's materials should be submitted before the deadline."}
+{"src": "调查材料有时需要多人一起合作。", "tgt": "Investigation materials sometimes require collaboration among multiple people.", "hyp": "The investigation materials sometimes require multiple people to work together."}
+{"src": "她是去年生的小孩，现在她已经快1岁了。", "tgt": "She is a child born last year, and she is almost 1 year old now.", "hyp": "She was a child born last year, and now she is almost one year old."}
+{"src": "她是去年生的小孩，她的小孩已经快1岁了。", "tgt": "She is a child born last year, her child is already almost 1 year old.", "hyp": "She gave birth to a child last year,and her child is almost one year old."}
+{"src": "出租汽车被网约车服务压榨了生存环境。", "tgt": "The survival environment of taxis has been squeezed by online ride-hailing services.", "hyp": "The living environment of taxi is squeezed by the ride-hailing service."}
+{"src": "出租汽车正在成长为一个新的大市场。", "tgt": "The taxi industry is growing into a new big market.", "hyp": "Renting car is growing into a new big market."}
+{"src": "他在校内打球时受伤了，请马上送去学校医院。", "tgt": "'He got injured while playing ball on campus, please send him to the school hospital immediately.'", "hyp": "He was injured while playing in the school, please send hime to the school's hospital immediately."}
+{"src": "学校医院是人最多的两个公共场合。", "tgt": "'Schools and hospitals are the two public places with the most people.'", "hyp": "School and hospital are the two public places with the most people."}
+{"src": "文学语言是指在文学作品中使用的语言。", "tgt": "Literary language refers to the language used in literary works.", "hyp": "Literary language refers to the language used in literary works."}
+{"src": "生物历史，一个偏理科，一个偏文科。", "tgt": "Biological history, one leans towards science, the other towards humanities.", "hyp": "Biology and history, a partial science, a partial liberal arts."}
+{"src": "生物历史指的是生物学的历史。", "tgt": "The term biological history refers to the history of biology.", "hyp": "Biological history refers to the history of biology."}
+{"src": "其他国家的事等下一次国家会议再讨论。", "tgt": "Matters concerning other countries will be discussed at the next national meeting.", "hyp": "Other national things will be discussed at the next national meeting."}
+{"src": "其他国家的事等下一次国际会议再讨论。", "tgt": "Matters concerning other countries will be discussed at the next international conference.", "hyp": "Things from other countries will be discussed at the next international conference."}
+{"src": "古代战争小说指的是有关古代战争的小说。", "tgt": "The term ancient war novels refers to novels about ancient wars.", "hyp": "The novels of ancient warfare refer to novels about ancient wars."}
+{"src": "古代战争小说指的是古代写的战争小说。", "tgt": "The term ancient war novels refers to war novels written in ancient times.", "hyp": "Ancient war novels refer to war novels written in ancient times."}
+{"src": "非洲语言研究指的是专门研究非洲语言。", "tgt": "'African language studies refer to the specialized study of African languages.'", "hyp": "The studies of african langugae refer to specializing in studying the africa language."}
+{"src": "非洲语言研究是在非洲建立的一个语言研究所。", "tgt": "The study of African languages is a language research institute established in Africa.", "hyp": "African Language Studies is an institute for language studies in Africa."}
+{"src": "新教工宿舍是为新的教工专门提供的宿舍。", "tgt": "The new staff dormitory is specifically provided for new staff members.", "hyp": "The dormitory of new faculty is a dormitory dedicated to new faculty."}
+{"src": "新教工宿舍是学校新建的一栋教工宿舍。", "tgt": "The new staff dormitory is a newly built staff dormitory by the school.", "hyp": "The new faculty dormitory is a newly built faculty dormitory."}
+{"src": "他这辆车已经买了5年了，他想要买一个新汽车牌照。", "tgt": "'He has had this car for 5 years now, he wants to buy a new car license plate.'", "hyp": "He has bought this car for five years and he wants to buy a new car license."}
+{"src": "他这辆车是新买的，他想要买一个新汽车牌照。", "tgt": "He just bought this car, and he wants to buy a new car license plate.", "hyp": "His car is new and he wants to buy a license of new car."}
+{"src": "大学英语教师指的是教授大学英语的教师。", "tgt": "The term university English teacher refers to a teacher who teaches English at a university.", "hyp": "College English teachers refer to teachers who teach College English."}
+{"src": "大学英语教师指的是在大学教授英语的教师。", "tgt": "The term university English teacher refers to a teacher who teaches English at a university.", "hyp": "The English teachers of college refer to teachers who teach English at the university."}
+{"src": "两个学校的领导一前一后在同一个开学典礼上说了话。", "tgt": "The leaders of the two schools spoke one after the other at the same opening ceremony.", "hyp": "Two leaders of the school spoke at the same opening ceremony one by one."}
+{"src": "公园里有三个幼儿园的孩子，总共有6个孩子在做游戏。", "tgt": "There are three kindergarten children in the park, with a total of 6 children playing games.", "hyp": "There are children of three kindergartens  in the park, and a total of six children are playing games."}
+{"src": "办公室里有两个党的议员，他们互相攻击对方党派的观点。", "tgt": "There are two party members in the office, they attack each other's party's views.", "hyp": "There are members of two parties  in the office who attack each other's party views."}
+{"src": "办公室里有两个党的议员，他们在竞选党主席。", "tgt": "There are two party members in the office, they are running for party chairman.", "hyp": "There are two members of the party in the office who are running for the party chairman."}
+{"src": "三个工厂的工人在一起喝酒，一人一瓶总共点了3瓶酒。", "tgt": "Workers from three factories are drinking together, each person ordered a bottle, totaling 3 bottles of wine.", "hyp": "The three workers in the factory drank together and ordered a total of 3 bottles of wine in one bottle per person."}
+{"src": "三个工厂的工人在一起喝酒，一人一瓶总共点了10瓶酒。", "tgt": "Workers from three factories are drinking together, each person ordered a bottle and they ordered a total of 10 bottles of wine.", "hyp": "The workers in the three factories drank together and ordered a total of 10 bottles of wine in one bottle per person."}
+{"src": "这栋大楼里有5个医院的医生，他们在讨论医院中各自科室的合作。", "tgt": "There are doctors from five hospitals in this building, they are discussing the cooperation among their respective departments in the hospital.", "hyp": "There are five doctors  of the hospital in the building who are discussing the cooperation of their respective departments in the hospital."}
+{"src": "这栋大楼里有5个医院的医生，他们在讨论各自医院里的合作。", "tgt": "'There are doctors from five hospitals in this building, they are discussing cooperation within their respective hospitals.'", "hyp": "There are doctors from five hospitals in the building who are discussing the cooperation in their respective hospitals."}
+{"src": "两个球队的队员从小就是相互认识的好朋友。", "tgt": "The members of the two teams have been good friends who knew each other since childhood.", "hyp": "The two players of the team are good friends who know each other from an early age."}
+{"src": "两个球队的队员在体育馆为观众上演了一场精彩的比赛。", "tgt": "The players from the two teams put on a spectacular match for the audience in the sports hall.", "hyp": "The players of the two teams played a wonderful game for the audience in the stadium."}
+{"src": "在饭店门口的几个饭店的服务员，因为想拉客人去各自的饭店争吵了起来。", "tgt": "The waitstaff from several restaurants at the entrance of the hotel started arguing because they all wanted to attract customers to their own restaurants.", "hyp": "The waiters from several restaurants  were arguing because they wanted to pull guests to their respective restaurants in front of the restauran."}
+{"src": "在饭店门口的几个饭店的服务员，因为没有客人，所以在闲聊。", "tgt": "The waitstaff from several restaurants at the entrance of the restaurant are chatting idly because there are no customers.", "hyp": "Several waiters of the restaurant were chatting because there were no guests in front of the restaurant."}
+{"src": "椅子上摆着两个朋友送的花瓶，这个花瓶是他的两个朋友集资买的。", "tgt": "'There are two vases on the chair, given by two friends. These vases were purchased through a joint fund by his two friends.'", "hyp": "On the chair was a vase sent by two friends, and this vase was bought by two of his friends."}
+{"src": "椅子上摆着两个朋友送的花瓶，这些花瓶是他的三个朋友集资买的。", "tgt": "'Two vases given by friends are placed on the chair, these vases were purchased collectively by his three friends.'", "hyp": "On the chair were two vases sent by friends, which were bought by three of his friends."}
+{"src": "对他的帮助，大家都对他表示了感谢。", "tgt": "Everyone expressed their gratitude for his help.", "hyp": "Everyone thanks him for his help, ."}
+{"src": "他看了3个宠物店的猫，最后决定了中间一家宠物店购买猫。", "tgt": "'He looked at cats in three pet stores and finally decided to buy a cat from the middle pet store.'", "hyp": "He looked at the cats in three pet stores and finally decided to buy cats in the middle pet shop."}
+{"src": "他看了3个宠物店的猫，最后决定了中间那只最可爱的猫。", "tgt": "'He looked at cats in three pet stores, and finally decided on the cutest cat in the middle one.'", "hyp": "He looked at three cats in the pet store and finally decided the cutest cat in the middle."}
+{"src": "2个城市的警察就在打击犯罪上签署了跨城市合作协议。", "tgt": "The police of two cities have signed a cross-city cooperation agreement to combat crime.", "hyp": "The police in two cities signed an inter-city cooperation agreement on combating crime."}
+{"src": "小明受到了极大的鼓舞，鼓励的是老师。", "tgt": "Xiao Ming was greatly inspired, and it was the teacher who encouraged him.", "hyp": "Xiao Ming was greatly encouraged and it was the teacher who encouraged him."}
+{"src": "给老师们发放补贴，鼓励的是老师。", "tgt": "Distributing subsidies to teachers, it is the teachers who are encouraged.", "hyp": "Granting subsidies to teachers to encourages teachers."}
+{"src": "手术开刀的是他父亲，因为他父亲是医生。", "tgt": "The one who performed the surgery was his father, because his father is a doctor.", "hyp": "It was his father who operated the surgery because his father was a doctor."}
+{"src": "手术开刀的是他父亲，因为他父亲得了重病。", "tgt": "The surgery was performed on his father, because his father had a serious illness.", "hyp": "It was his father who underwent surgery, because his father was seriously ill."}
+{"src": "这是我拍于去年的照片，当时我的摄影技巧很不错。", "tgt": "'This is a photo I took last year, at that time my photography skills were pretty good.'", "hyp": "This is a photo I took last year, when my photography skills were very good."}
+{"src": "这是我拍于去年的照片，是一张不错的自拍。", "tgt": "'This is a photo I took last year, it's a pretty good selfie.'", "hyp": "This is a photo of me last year and it is a good selfie."}
+{"src": "调查的是省里的官员，他们对各市的情况很不满意。", "tgt": "The investigation is about the officials in the province, and they are very dissatisfied with the situation in various cities.", "hyp": "The investigation was carried out by provincial officials who were very dissatisfied with the state in each city."}
+{"src": "表演的是周杰伦，他唱了一首成名歌曲。", "tgt": "The performer is Jay Chou, he sang one of his famous songs.", "hyp": "The performer was given by Jay Chou, and he sang a famous song."}
+{"src": "表演的是周杰伦，这位模仿高手很擅长模仿知名歌手。", "tgt": "The performer is Jay Chou, this imitation master is very good at imitating famous singers.", "hyp": "The performance was imitating Jay Chou, and the adept imitator is very good at imitating famous singers."}
+{"src": "补贴的是高科技公司，这是政府的政策。", "tgt": "The subsidies are for high-tech companies, this is the government's policy.", "hyp": "The subsidy is provided to high-tech companies, which is the government's policy."}
+{"src": "补贴的是高科技公司，用户可以收益很多。", "tgt": "The subsidies are from high-tech companies, users can benefit a lot.", "hyp": "Subsidies are provided by high-tech companies, and users can make a lot of money."}
+{"src": "抗议的是伊拉克政府，人民对其十分不满。", "tgt": "The protest is against the Iraqi government, the people are very dissatisfied with it.", "hyp": "The protest was against the Iraqi government, and the people were very dissatisfied with it."}
+{"src": "送别的是王老师，同学们都十分难过。", "tgt": "The one saying goodbye is Teacher Wang, and all the students are very upset.", "hyp": "The farewell is to Mr. Wang, and the students were very sad."}
+{"src": "围剿土匪的部队，随时都可以集结。", "tgt": "The troops hunting down the bandits can assemble at any time.", "hyp": "The troops that siege the bandits can gather at any time."}
+{"src": "围剿土匪的部队，需要正规军出动。", "tgt": "The troops surrounding and suppressing the bandits need the regular army to be dispatched.", "hyp": "Sieging the troops' bandits need the regular army."}
+{"src": "热爱学校的老师，时刻奋斗在教学第一线。", "tgt": "Teachers who love their school are always striving on the front line of teaching.", "hyp": "Teachers who love the school always struggle to be at the forefront of teaching."}
+{"src": "思念家乡的人们，无时无刻想回去。", "tgt": "People who miss their hometown, want to go back all the time.", "hyp": "People who miss their hometown  want to go back all the time."}
+{"src": "思念家乡的人们，是每个游子会有的心情。", "tgt": "Missing hometown and its people is a feeling every wanderer would have.", "hyp": "Missing their hometown  is the mood that every wanderer has."}
+{"src": "发现敌人的部队，我军立刻展开了攻击。", "tgt": "Upon discovering the enemy's troops, our army immediately launched an attack.", "hyp": "When we found the enemy's troops, our army immediately launched an attack."}
+{"src": "遇到朋友的老师，和朋友打了个招呼。", "tgt": "Met a friend's teacher and greeted the friend.", "hyp": "The teacher who met friend said hello to his friend."}
+{"src": "遇到朋友的老师，我和老师打了个招呼。", "tgt": "I greeted my friend's teacher when I met him/her.", "hyp": "When I met a friend's teacher, I said hello to the teacher."}
+{"src": "拜访邻居的父母，同时带了许多礼物。", "tgt": "Visited the neighbors' parents and brought many gifts at the same time.", "hyp": "Visiting the neighbor's parents and bringing a lot of gifts."}
+{"src": "拜访邻居的父母，感谢了邻居这些天对我的照护。", "tgt": "Visited the parents of my neighbor, and thanked the neighbor for taking care of me these days.", "hyp": "My parents who visited the neighbors thanked the neighbors for the neighbors' care for me these days."}
+{"src": "研究春秋的书籍，保存在图书馆里。", "tgt": "Books studying the Spring and Autumn period are kept in the library.", "hyp": "The books studying the Spring and Autumn are stored in the library."}
+{"src": "研究春秋的书籍，对理解那段历史很有帮助。", "tgt": "Studying books about the Spring and Autumn period is very helpful for understanding that period of history.", "hyp": "Studying the books of the Spring and Autumn Period is very helpful in understanding that history."}
+{"src": "侮辱别人的父母，不是孩子的好榜样。", "tgt": "Insulting other people's parents is not a good example for children.", "hyp": "Parents who insult other people's parents are not good examples for children."}
+{"src": "侮辱别人的父母，不是一个礼貌的行为。", "tgt": "Insulting someone else's parents is not a polite behavior.", "hyp": "It is not a polite behavior to insult someone else's parents."}
+{"src": "观察园林的游客，讨论着园林设计。", "tgt": "Visitors observing the garden are discussing garden design.", "hyp": "Visitors who observe garden are discussing garden design."}
+{"src": "杀死了邻居的小孩儿，才仅仅十几岁。", "tgt": "Killed the neighbor's child, who was just in his teens.", "hyp": "The kid who killed neighbor was only a teenager."}
+{"src": "五个学校的校长聚在一起。", "tgt": "The principals of five schools gathered together.", "hyp": "The principals of the five schools got together."}
+{"src": "五个学校的老师和他们的校长，王校长站在一起。", "tgt": "The teachers from five schools and their principals, with Principal Wang, are standing together.", "hyp": "Five teachers of the school and their principal, President Wang stood together."}
+{"src": "两个乐队的鼓手在争吵，谁是乐队里的第一鼓手。", "tgt": "The drummers of two bands are arguing over who is the number one drummer in the band.", "hyp": "Two drummers of the band are arguing, who is the first drummer in the band."}
+{"src": "两个小区的住户在讨论，谁的小区房价又涨了。", "tgt": "Residents from two communities are discussing whose community's housing prices have risen again.", "hyp": "The residents of the two communities are discussing about whose residential areas where housing prices have risen again."}
+{"src": "两个小区的住户在讨论，他们小区的附属医院水平如何。", "tgt": "Residents from two communities are discussing the quality of the affiliated hospital in their community.", "hyp": "Two residents of the community are discussing how the level of affiliated hospitals in their community is."}
+{"src": "三个工厂里的员工出去吃饭，讨论一起去找老板加工资。", "tgt": "The employees from three factories go out to eat and discuss going together to ask the boss for a raise.", "hyp": "Three employees in the factory dined out,  discussing about asking the boss to increase the pay together."}
+{"src": "三个工厂里的员工出去吃饭，讨论各自工厂的待遇（较高）。", "tgt": "Employees from three factories go out to eat and discuss the (higher) treatment in their respective factories.", "hyp": "The employees in the three factories dined out, discussing about  the salary of their respective factories (higher)."}
+{"src": "这边有两个明星的粉丝，在讨论今晚周杰伦的演唱会。", "tgt": "There are two fans of celebrities here, discussing Jay Chou's concert tonight.", "hyp": "There are two star fans here, discussing Jay Chou's concert tonight."}
+{"src": "这边有两个明星的粉丝，在争论周杰伦和蔡徐坤谁的作品更好。", "tgt": "'There are two fans of celebrities here, arguing about whose works are better, Jay Chou's or Cai Xukun's.'", "hyp": "There are fans of two stars here, arguing whose  wok is better, Jay Chou's or Cai Xukun's."}
+{"src": "五个学院的领导在商议，举办五个学院的联谊。", "tgt": "The leaders of five colleges are discussing, planning to hold a fellowship among the five colleges.", "hyp": "The leaders of the five colleges are negotiating and organizing the communication activity of five colleges."}
+{"src": "五个学院的领导在商议，如何成为学校的第一学院。", "tgt": "The leaders of five colleges are discussing how to become the top college in the school.", "hyp": "Five leaders of the college are negotiating how to become the first college of the school."}
+{"src": "窗台上是两个朋友送的花瓶，两位都是我的好朋友。", "tgt": "On the windowsill are two vases given by my friends, both of whom are my good friends.", "hyp": "On the window sill is a vase sent by two friends, both of whom are my good friends."}
+{"src": "窗台上是两个朋友送的花瓶，两个花瓶都很好看。", "tgt": "On the windowsill are two vases given by friends, both vases are very beautiful.", "hyp": "On the window sill are two vases sent by my friend, and both vases are very nice."}
+{"src": "中国文化博览中心囊括了上百个国家的各色文化。", "tgt": "The China Cultural Expo Center encompasses a variety of cultures from hundreds of countries.", "hyp": "The Culture Expo Center in China encompasses a diverse culture of hundreds of countries."}
+{"src": "小学语文老师是指小学的语文老师。", "tgt": "The term 'primary school language teacher' refers to the language teacher in primary school.", "hyp": "The Chinese language teacher in primary school refers to the Chinese teacher of the primary school."}
+{"src": "小学语文老师是指教授小学语文的老师。", "tgt": "The term 'primary school language teacher' refers to a teacher who teaches language in primary school.", "hyp": "The Primary school Chinese language teachers refer to teachers who teach  Chinese in the primary school."}
+{"src": "台湾汉字研究所坐落于台北，致力于研究汉字。", "tgt": "The Taiwan Chinese Character Research Institute is located in Taipei, dedicated to the study of Chinese characters.", "hyp": "The Institute of Chinese Character in Taiwan is located in Taipei and is dedicated to the study of Chinese characters."}
+{"src": "苏州汽车展览会展示了苏州自主研发的汽车品牌。", "tgt": "The Suzhou Auto Show showcased car brands independently developed in Suzhou.", "hyp": "The exhibition of Suzhou cars showcased the auto brand independently developed by Suzhou."}
+{"src": "苏州汽车展览会展示了世界各地的汽车品牌。", "tgt": "The Suzhou Auto Show showcased car brands from all over the world.", "hyp": "The car exhibition in Suzhou showcases car brands around the world."}
+{"src": "一个季度就生产了这么多设备，太棒了。", "tgt": "Produced so many devices in just one quarter, that's awesome.", "hyp": "It’s great to produce so many devices in a quarter."}
+{"src": "一个季度就生产了这么多设备，太差劲了。", "tgt": "Produced so many devices in just one quarter, that's too bad.", "hyp": "It’s too bad to produce such a few devices in a quarter."}
+{"src": "修车的人急坏了，因为他还要开车出门。", "tgt": "The person fixing the car is extremely anxious because he still has to drive out.", "hyp": "The person who needed to repair the car was in a hurry because he had to drive out."}
+{"src": "修车的人急坏了，因为顾客一直在催他。", "tgt": "The person fixing the car is extremely anxious because the customer keeps rushing him.", "hyp": "The person who repaired the car was in a hurry because the customer had been urging him."}
+{"src": "我谁也看不上，因为我没钱。", "tgt": "I look down on no one, because I have no money.", "hyp": "Nobody thinks highly of me because I don't have money."}
+{"src": "王老师已经通知了，同学们都知道了。", "tgt": "Teacher Wang has already notified, all the students know.", "hyp": "Teacher Wang has already notified, and the students knew it."}
+{"src": "部分损毁的仪器损损毁得十分彻底，无法维修了。", "tgt": "The partially damaged instrument is completely destroyed and cannot be repaired.", "hyp": "Part of the damaged instruments was completely destroyed and could not be repaired."}
+{"src": "翻译小说不是个好差事。", "tgt": "Translating novels is not a good job.", "hyp": "Translating novels is not a good errand."}
+{"src": "翻译小说有时候会不如原版，不是个好差事。", "tgt": "Translating novels can sometimes be inferior to the original version, which is not a good thing.", "hyp": "Translated novels are sometimes not as good as the original, so translatiion is not a good errand."}
+{"src": "进口奶粉有时候不一定就比国产奶粉好。", "tgt": "Imported milk powder is not necessarily better than domestic milk powder.", "hyp": "Imported milk powder is sometimes not necessarily better than domestic milk powder."}
+{"src": "进口奶粉需要获得国家审批的公司才能进行。", "tgt": "Only companies that have obtained national approval can import milk powder.", "hyp": "Importing milk powder needs to be carried out by company which is approved by the state."}
+{"src": "这份报道我写不好，因为我的身份比较敏感。", "tgt": "'I can't write this report well because my identity is quite sensitive.'", "hyp": "I am not suitable to write this report because my identity is sensitive."}
+{"src": "这份报道我写不好，我知道你写得好。", "tgt": "I can't write this report well, I know you can write it well.", "hyp": "I can't write this report well, I know that you write well."}
+{"src": "教师节老师希望学生别送礼品送祝福，心意比物品更重要。", "tgt": "On Teacher's Day, teachers hope that students will send blessings instead of gifts, as the sentiment is more important than the material items.", "hyp": "On teachers' Day, teachers hope that students don't send gifts but blessings because their minds are more important than items."}
+{"src": "教师节老师希望学生别送礼品送祝福，什么都不需要。", "tgt": "On Teacher's Day, the teacher hopes that students will send blessings instead of gifts, they don't need anything else.", "hyp": "On teacher's Day , teacher hopes that students don't send gifts but blessings because nothing is needed."}
+{"src": "来的是哥哥和弟弟的朋友，兄弟二人有着相同的交际圈。", "tgt": "The ones who came were the friends of the elder and younger brother. The two brothers have the same social circle.", "hyp": "Here comes the elder brother's and the little brother's friend, and the two brothers have the same social circle."}
+{"src": "来的是哥哥和弟弟的朋友，哥哥不认识弟弟的朋友。", "tgt": "The ones who came are the friends of the elder brother and the younger brother, but the elder brother does not know the younger brother's friend.", "hyp": "Here comes elder brother and the little brother's friend, and the big brother doesn’t know the little brother’s friend."}
+{"src": "关于鲁迅的文章，我只知道孔乙己。", "tgt": "Regarding Lu Xun's articles, I only know about Kong Yiji.", "hyp": "Regarding Lu Xun's article, I only know Kong Yiji."}
+{"src": "关于鲁迅的文章，许多人都写过。", "tgt": "Many people have written articles about Lu Xun.", "hyp": "Many people have written articles about Lu Xun."}
+{"src": "对于老师的意见，同学们都虚心接受了。", "tgt": "Regarding the teacher's opinions, all the students accepted them with an open mind.", "hyp": "For the teacher's opinion, the students were humbly accepted."}
+{"src": "喜欢干净的小孩很多。", "tgt": "There are many children who like cleanliness.", "hyp": "There are many children who like clean."}
+{"src": "喜欢干净的小孩的人很多。", "tgt": "There are many people who like clean children.", "hyp": "There are many people who like clean children."}
+{"src": "小李说故事很有趣，大家都爱听小李讲。", "tgt": "Xiao Li tells very interesting stories, everyone loves to listen to Xiao Li speak.", "hyp": "Xiao Li is good at telling stories and everyone loves to hear the stories  Xiao Li tell ."}
+{"src": "小李说故事很有趣，小李建议大家都去听。", "tgt": "Xiao Li said the story is very interesting, Xiao Li suggests everyone to go listen.", "hyp": "Xiao Li said that the story is very interesting, and Xiao Li suggested that everyone listen."}
+{"src": "他忽然想起来，他还没吃饭。", "tgt": "He suddenly remembered that he hadn't eaten yet.", "hyp": "He suddenly remembered that he had not had dinner yet."}
+{"src": "他忽然想起来，去吃饭。", "tgt": "He suddenly remembered to go eat.", "hyp": "He suddenly got up and went to have dinner."}
+{"src": "他想不到，这题居然如此简单。", "tgt": "He couldn't believe that this question was so simple.", "hyp": "He have nerver thought the problem was so simple."}
+{"src": "他想不到，这题的解法究竟是什么。", "tgt": "He couldn't figure out what the solution to this problem was.", "hyp": "He couldn't imagine what the solution to this question was."}
